@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoStudentsManagement/StudentModal.swift"
+            timestampString = "514278934.225295"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "StudentModal"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoStudentsManagement.StudentModal.DocumentsDirectory.unsafeMutableAddressor : Foundation.URL"
+                  moduleName = "demoStudentsManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hungnguyen/Desktop/testIOS/demoStudentsManagement/demoStudentsManagement/StudentModal.swift"
+                  timestampString = "514669334.018454"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static demoStudentsManagement.StudentModal.DocumentsDirectory.getter : Foundation.URL"
+                  moduleName = "demoStudentsManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hungnguyen/Desktop/testIOS/demoStudentsManagement/demoStudentsManagement/StudentModal.swift"
+                  timestampString = "514669334.022039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static demoStudentsManagement.StudentModal.DocumentsDirectory.setter : Foundation.URL"
+                  moduleName = "demoStudentsManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hungnguyen/Desktop/testIOS/demoStudentsManagement/demoStudentsManagement/StudentModal.swift"
+                  timestampString = "514669334.025653"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoStudentsManagement/StudentModal.swift"
+            timestampString = "514278935.073315"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "StudentModal"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_022370776A3BB9A50AEF404E50C49F75_func1"
+                  moduleName = "demoStudentsManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hungnguyen/Desktop/testIOS/demoStudentsManagement/demoStudentsManagement/StudentModal.swift"
+                  timestampString = "514669334.088561"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static demoStudentsManagement.StudentModal.ArchiveURL.getter : Foundation.URL"
+                  moduleName = "demoStudentsManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hungnguyen/Desktop/testIOS/demoStudentsManagement/demoStudentsManagement/StudentModal.swift"
+                  timestampString = "514669334.113177"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoStudentsManagement/StudentModal.swift"
+            timestampString = "514278937.529327"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "encode(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoStudentsManagement/StudentModal.swift"
+            timestampString = "514278939.297459"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "init(coder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoStudentsManagement.StudentModal.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;demoStudentsManagement.StudentModal&gt;"
+                  moduleName = "demoStudentsManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hungnguyen/Desktop/testIOS/demoStudentsManagement/demoStudentsManagement/StudentModal.swift"
+                  timestampString = "514669334.151832"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demoStudentsManagement.StudentModal.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;demoStudentsManagement.StudentModal&gt;"
+                  moduleName = "demoStudentsManagement"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hungnguyen/Desktop/testIOS/demoStudentsManagement/demoStudentsManagement/StudentModal.swift"
+                  timestampString = "514669334.156613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoStudentsManagement/DataServices.swift"
+            timestampString = "514278971.297714"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "saveStudents()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoStudentsManagement/DataServices.swift"
+            timestampString = "514278974.873333"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "updateStudents()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudentsTableViewController.swift"
+            timestampString = "514669332.302996"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "StudentsTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
